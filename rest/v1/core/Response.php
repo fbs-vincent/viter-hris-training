@@ -7,7 +7,7 @@ class Response
     private $_toCache = false;
     private $_responseData = array();
 
-    public function setSucces($success){
+    public function setSuccess($success){
         $this->_success = $success;
     }
     public function setData($data){
