@@ -1,4 +1,3 @@
-import React from "react";
 import { VscBracketError } from "react-icons/vsc";
 
 const ServerError = ({ iconSize, textSize }) => {
